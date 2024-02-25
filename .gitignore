@@ -1,0 +1,46 @@
+# IntelliJ IDEA files
+.idea/
+
+# Visual Studio Code files
+.vscode/
+
+# Compiled Java classes
+*.class
+
+# Compiled Python files
+*.pyc
+
+# Compiled files
+bin/
+
+# Maven build directory
+target/
+
+# Gradle build directory
+build/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Selenium WebDriver binaries
+webdriver/
+
+# Allure report directory
+allure-report/
+
+# Cucumber report directory
+cucumber-report/
+
+# IDE-specific configuration files
+*.iml
+*.ipr
+*.iws
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
